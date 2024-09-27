@@ -1,7 +1,7 @@
 ## Hi
-I am Arnav Garg
-I’m currently learning C++ programming language and exploring more about computers and other languages in general
-Looking forward to learning more and contributing in the future
+I am Arnav Garg <br />
+I’m currently learning C++ programming language and exploring more about computers and other languages in general <br />
+Looking forward to learning more and contributing in the future <br />
 
 
 <!--
