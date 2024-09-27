@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi
+I am Arnav Garg
+I’m currently learning C++ programming language and exploring more about computers and other languages in general
+Looking forward to learning more and contributing in the future
+
 
 <!--
 **Argentum47X/Argentum47X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
